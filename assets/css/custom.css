@@ -8,3 +8,11 @@
   width: 100%;
   height: 25vw;
 }
+
+.contact-text {
+  text-align: center;
+}
+
+#nav {
+  visibility: hidden;
+}
