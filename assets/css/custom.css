@@ -1,6 +1,6 @@
 .index-img {
   max-width: 15%;
-  margin-top: 5%;
+  margin-top: 2%;
 }
 
 .intrinsic-container {
@@ -28,6 +28,6 @@
 }
 
 .video-featured {
-  width: 30%;
+  width: 100%;
   height: 20vw;
 }
