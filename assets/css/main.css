@@ -1551,6 +1551,7 @@
 		text-align: center;
 		background: url("../../images/suburbs.jpeg");
 		background-size: cover;
+		opacity: 0.5;
 	}
 
 		#header-wrapper p {
