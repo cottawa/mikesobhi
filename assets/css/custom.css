@@ -18,7 +18,8 @@
 }
 
 #header-wrapper .inner{
-  background: url("../../images/header.jpg");
+  background-color: #ffffff;
   background-size: cover;
+  opacity: 0.5;
 }
 }
