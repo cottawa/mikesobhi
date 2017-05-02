@@ -1571,6 +1571,7 @@
 		#banner-wrapper .inner {
 			background: url("../../images/pinkballoons.jpg");
 			background-size: cover;
+			height: 100vh;
 		}
 
 		#banner-wrapper p {
@@ -1630,7 +1631,7 @@
 	#header {
 		position: relative;
 		border-bottom: solid 2px #e5e5e5;
-		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
+		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #fff;
 	}
 
 		#header h1 {
