@@ -1549,8 +1549,6 @@
 	#header-wrapper {
 		position: relative;
 		text-align: center;
-		background: url("../../images/suburbs.png");
-		background-size: cover;
 	}
 
 		#header-wrapper p {
@@ -1569,7 +1567,7 @@
 	}
 
 		#banner-wrapper .inner {
-			background: url("../../images/banner.jpg");
+			background: url("../../images/suburbs.png");
 			background-size: cover;
 		}
 
