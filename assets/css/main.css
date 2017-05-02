@@ -1572,6 +1572,7 @@
 			background: url("../../images/pinkballoons.jpg");
 			background-size: cover;
 			height: 100vh;
+			max-width: 100%;
 		}
 
 		#banner-wrapper p {
@@ -1834,7 +1835,7 @@
 			}
 
 			#banner-wrapper {
-				padding: 3em 0 3em 0;
+				padding: 0 0 0 0;
 			}
 
 			#main-wrapper {
