@@ -16,3 +16,9 @@
 #nav {
   visibility: hidden;
 }
+
+#header-wrapper .inner{
+  background: url("../../images/banner.jpg");
+  background-size: cover;
+}
+}
