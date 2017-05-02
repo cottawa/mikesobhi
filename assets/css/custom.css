@@ -16,9 +16,4 @@
 #nav {
   visibility: hidden;
 }
-
-#header-wrapper .inner{
-  background: url("../../images/header.png");
-  background-size: cover;
-}
 }
