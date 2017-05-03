@@ -1073,6 +1073,7 @@
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
 		color: #777;
+		font-size: 14px;
 	}
 
 		body.is-loading * {
@@ -2071,7 +2072,7 @@
 			}
 
 			#banner-wrapper {
-				padding: 2em 0 2em 0;
+				padding: 0 0 0 0;
 			}
 
 			#main-wrapper {
