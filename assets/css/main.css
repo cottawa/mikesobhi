@@ -1571,7 +1571,7 @@
 		#banner-wrapper .inner {
 			background: url("../../images/pink-balloons.jpg");
 			background-size: cover;
-			height: 100vh;
+			height: 125vh;
 			max-width: 100%;
 		}
 
@@ -1632,7 +1632,6 @@
 	#header {
 		position: relative;
 		border-bottom: solid 2px #e5e5e5;
-		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #fff;
 	}
 
 		#header h1 {
@@ -1849,7 +1848,7 @@
 		/* Header */
 
 			#header {
-				padding: 14em 0 7em 0;
+				padding: 14em 0 0 0;
 			}
 
 				#header h1 {
