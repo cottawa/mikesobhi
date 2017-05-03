@@ -107,6 +107,7 @@
 
 		.container {
 			width: 1200px;
+			height: 60vw;
 		}
 
 	}
@@ -1830,7 +1831,7 @@
 		/* Wrappers */
 
 			#features-wrapper {
-				padding: 6em 0 6em 0;
+				padding: 6em 0 0 0;
 			}
 
 			#banner-wrapper {
